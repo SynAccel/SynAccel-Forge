@@ -16,7 +16,7 @@
 ## Quick start
 
 1. Browse current experiments in [`labs/`](labs/).
-2. Start a new one by copying [`labs/templates/LAB_TEMPLATE.md`](labs/templates/LAB_TEMPLATE.md) to `labs/<yyyy-mm>-<short-name>.md`.
+2. Start a new one with `scripts/new-lab.sh <short-name>`, which copies [`labs/templates/LAB_TEMPLATE.md`](labs/templates/LAB_TEMPLATE.md) to `labs/<yyyy-mm>-<short-name>.md`.
 3. Record significant decisions in [`docs/adr/`](docs/adr/) using the [ADR template](docs/adr/0000-template.md).
 
 ## Focus areas
