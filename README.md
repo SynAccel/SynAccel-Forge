@@ -28,11 +28,14 @@
 
 See the [roadmap](docs/roadmap/ROADMAP.md) for what is next.
 
-## Related SynAccel repos
+## Related SynAccel repositories
 
-- **SynAccel-Bridge**: telemetry gateway and signal routing
-- **SynAccel-Mirage**: deception and misperception systems
-- **SynAccel-Sentinel**: detection automation and response loops
+- [SynAccel-Sentinel](https://github.com/SynAccel/SynAccel-Sentinel) — Research prototype for AWS IAM and S3 exposure checks and risk prioritization.
+- [SynAccel-Bridge](https://github.com/SynAccel/SynAccel-Bridge) — Event-intake and correlation prototype for cyber-physical telemetry.
+- [SynAccel-Mirage_v2](https://github.com/SynAccel/SynAccel-Mirage_v2) — Local defensive decoy service with banner responses and interaction telemetry.
+- [SynAccel-llm-redteam-sandbox](https://github.com/SynAccel/SynAccel-llm-redteam-sandbox) — Heuristic AI-safety evaluation against a simulated language model.
+- [adversarial-autonomous-triage](https://github.com/SynAccel/adversarial-autonomous-triage) — Research lab on adversarial robustness in AI-assisted security-alert triage.
+- [SynAccel-ShieldSet](https://github.com/SynAccel/SynAccel-ShieldSet) — Dataset label-consistency auditing using nearest-neighbor consensus.
 
 ## Workflow
 
